@@ -27,7 +27,7 @@ namespace donemprojeodevi
 
     // Yalnızca resim dosyalarını göster
     openFileDialog.Filter = "Resim Dosyaları|*.jpg;*.jpeg;*.png;*.bmp;*.gif";
-5
+
     // Kullanıcının bir dosya seçmesini bekle
     if (openFileDialog.ShowDialog() == DialogResult.OK)
     {
