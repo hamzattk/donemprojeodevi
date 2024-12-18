@@ -1,0 +1,10 @@
+C:\Users\katana\source\repos\donemprojeodevi\donemprojeodevi\obj\Debug\donemprojeodevi.csproj.AssemblyReference.cache
+C:\Users\katana\source\repos\donemprojeodevi\donemprojeodevi\obj\Debug\donemprojeodevi.Form1.resources
+C:\Users\katana\source\repos\donemprojeodevi\donemprojeodevi\obj\Debug\donemprojeodevi.Properties.Resources.resources
+C:\Users\katana\source\repos\donemprojeodevi\donemprojeodevi\obj\Debug\donemprojeodevi.csproj.GenerateResource.cache
+C:\Users\katana\source\repos\donemprojeodevi\donemprojeodevi\obj\Debug\donemprojeodevi.csproj.CoreCompileInputs.cache
+C:\Users\katana\source\repos\donemprojeodevi\donemprojeodevi\bin\Debug\donemprojeodevi.exe.config
+C:\Users\katana\source\repos\donemprojeodevi\donemprojeodevi\bin\Debug\donemprojeodevi.exe
+C:\Users\katana\source\repos\donemprojeodevi\donemprojeodevi\bin\Debug\donemprojeodevi.pdb
+C:\Users\katana\source\repos\donemprojeodevi\donemprojeodevi\obj\Debug\donemprojeodevi.exe
+C:\Users\katana\source\repos\donemprojeodevi\donemprojeodevi\obj\Debug\donemprojeodevi.pdb
